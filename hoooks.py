@@ -1,0 +1,6 @@
+app_name = "internship_management"
+app_title = "Internship Management"
+app_publisher = "Naveen Kumar"
+app_description = "Internship Management Demo App"
+app_email = "naveen@example.com"
+app_license = "MIT"
